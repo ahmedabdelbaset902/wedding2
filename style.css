@@ -226,7 +226,7 @@ section{
     max-width:850px;
     padding:20px;
 
-    transform:translateY(-60px); /* 👈 رفع المحتوى لفوق */
+    transform:translateY(-50px); /* 👈 رفع المحتوى لفوق */
 }
 
 /* ayah */
