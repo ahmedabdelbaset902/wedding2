@@ -219,12 +219,13 @@ section{
 .hearts span:nth-child(4){ left:65%; animation-duration:13s; }
 .hearts span:nth-child(5){ left:85%; animation-duration:11s; }
 
-/* content */
 .hero-content{
     position:relative;
     z-index:2;
     max-width:850px;
     padding:20px;
+
+    margin-top:-50px; /* 👈 يرفع لفوق */
 }
 
 .ayah {
