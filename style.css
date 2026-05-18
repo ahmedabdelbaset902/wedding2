@@ -170,7 +170,7 @@ section{
 
     padding: 0 30px;
 
-    background: rgba(43, 15, 19, 0.9);
+    background:  #5a010d;  
     backdrop-filter: blur(12px);
 
     transition: all 0.5s ease;
